@@ -1,0 +1,69 @@
+<s id="muppets-with-Harry-Potter" title="The Muppets’ Show (The New Incarnation) about Harry Potter">
+
+<s id="about" title="About this screenplay">
+
+[The Muppets’ Show (The New Incarnation) About Harry Potter
+
+Note: This screenplay was written by
+<a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
+is original artwork.]
+
+[Abstract: <a href="http://harrypotter.wikia.com/wiki/Harry_Potter">Harry</a>
+and <a href="http://harrypotter.wikia.com/wiki/Hermione_Granger">Hermione</a>
+are on a mission to vanquish “He who must not be named 2” a.k.a
+<a href="http://muppet.wikia.com/wiki/The_Amazing_Mumford">The
+Amazing Mumford</a>, who is a very deadly Dark Arts magician, who bores
+everyone to death.]
+
+[This text is Copyright by Shlomi Fish, 2014 and is
+made available under the
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution-Noncommercial-ShareAlike 4.0 Unported Licence (CC-by-nc-sa)</a>
+(or at your option - any later version).]
+
+</s>
+
+<s id="harry_and_hermione_s_mission" title="Harry and Hermione’s Mission">
+
+[ <a href="https://en.wikipedia.org/wiki/J._K._Rowling">J. K. Rowling</a> (=
+“JKR”) is sitting among children, adults, and muppets, telling a new story. ]
+
+JKR: Today I’m going to tell you a new story about Harry Potter and Hermione,
+which happens sometimes at present. Hope you enjoy it.
+
+[The crowd says “Yay!”.]
+
+</s>
+
+<s id="do_it_all_with_love" title="“Do It All With Love”">
+
+[<a href="https://en.wikipedia.org/wiki/Paul_McCartney">Paul McCartney</a>
+sings a modernised version of
+<a href="https://en.wikipedia.org/wiki/All_You_Need_Is_Love">“All You Need
+Is Love”</a> titled “Do It All With Love” - same music - different
+lyrics - accompanied by the Muppets’ band and the episode’s cast and
+audience.]
+
+Song Lyrics: Everything you do, really should be done<br />
+Everything you can sing, ought to be sung<br />
+You can say a lot, but remember one thing,<br />
+It’s easy
+
++++: Everything you make, was well-made,<br />
+Many people in the world that you have saved,<br />
+Anything you do is something that is yours and everyone's<br />
+It’s easy
+
+Chorus: Do it all with love<br />
+Do it all with love<br />
+Do it all with love, love<br />
+Love in all you do!
+
+
+
+</s>
+
+<!-- / summerschool-at-the-NSA (Main) -->
+
+</s>
+
